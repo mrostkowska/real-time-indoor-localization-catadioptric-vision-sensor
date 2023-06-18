@@ -1,0 +1,14 @@
+faiss-cpu-noavx2
+# tensorflow==2.9.1
+efficientnet==1.1.0
+numpy
+# tensorflow_datasets
+fire
+pandas
+pyarrow
+dataclasses
+opencv-python
+Pillow
+scikit-learn
+matplotlib
+python==3.8
